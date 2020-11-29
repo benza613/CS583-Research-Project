@@ -1,0 +1,7 @@
+https://towardsdatascience.com/sentiment-analysis-for-text-with-deep-learning-2f0a0c6472b5
+https://www.kaggle.com/sreejiths0/efficient-tweet-preprocessing
+https://towardsdatascience.com/basic-tweet-preprocessing-in-python-efd8360d529e
+
+https://github.com/cbaziotis/ekphrasis
+https://pypi.org/project/tweet-preprocessor/
+
